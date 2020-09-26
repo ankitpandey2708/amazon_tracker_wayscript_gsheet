@@ -1,3 +1,7 @@
+'''
+track prices of products on amazon and alert via wayscript
+https://wayscript.com/shared/aosp3cqO
+'''
 import requests
 import bs4
 import pandas as pd
